@@ -3,7 +3,7 @@ sum_list = []
 a_list = []
 b_list = []
 #To save inputed values
-
+# 
 T = int(sys.stdin.readline())
 for i in range(0, T):
     a, b = map(int,sys.stdin.readline().split(" "))
